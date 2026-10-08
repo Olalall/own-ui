@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">own-ui — Make it yours.</title><desc id="desc">69 React components, 20 motion effects, complete source. MIT open source.</desc>
+<defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#b6c4ae" opacity=".5"/></pattern><filter id="shadow" x="-15%" y="-15%" width="140%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#203e28" flood-opacity=".06"/></filter></defs>
+<rect width="1200" height="630" fill="#f7f7f3"/>
+<g font-family="Manrope, Noto Sans SC, Microsoft YaHei, sans-serif">
+<rect x="56" y="45" width="38" height="38" rx="12" fill="#315a43"/><circle cx="74" cy="63" r="8" fill="none" stroke="#f7f7f3" stroke-width="1.7"/><circle cx="84" cy="73" r="3" fill="#c7d8c8"/>
+<text x="108" y="69" font-size="24" font-weight="600" letter-spacing="-1" fill="#20241f">own / ui</text>
+<text x="1144" y="68" text-anchor="end" font-size="11" letter-spacing="2" fill="#6d7a64">SOURCE-OWNED REACT UI · MIT</text>
+<line x1="56" y1="106" x2="1144" y2="106" stroke="#e1e6db"/>
+<text x="57" y="168" font-size="11" letter-spacing="2" fill="#63795a">A GOOD INTERFACE IS A GOOD START.</text>
+<g font-family="Georgia, Times New Roman, serif" font-size="113" letter-spacing="-7">
+<text x="51" y="291" fill="#20241f">Make it</text><text x="52" y="399" fill="#315a43">yours.</text>
+</g>
+<g transform="translate(438 310)" fill="#7a8e60"><path d="M0-33 7-14 24-24 14-7 33 0 14 7 24 24 7 14 0 33-7 14-24 24-14 7-33 0-14-7-24-24-7-14Z"/></g>
+<text x="57" y="456" font-size="17" fill="#43523c">69 components. 20 motion effects.</text>
+<text x="57" y="484" font-size="17" fill="#43523c">One design language. Your source.</text>
+<rect x="56" y="523" width="166" height="42" rx="8" fill="#315a43"/><text x="77" y="549" font-size="12" font-weight="600" fill="white">GOOD UI. ALL YOURS.</text>
+<text x="242" y="549" font-size="11" fill="#6b7a62">v0.3.0 / React / TypeScript</text>
+<g filter="url(#shadow)">
+<rect x="570" y="151" width="574" height="414" rx="20" fill="#eaf0e5" stroke="#d7e0d1"/>
+<rect x="570" y="151" width="574" height="414" rx="20" fill="url(#dots)"/>
+<circle cx="596" cy="179" r="3" fill="#6a8b60"/><text x="606" y="183" font-size="9" fill="#516647" letter-spacing="1">REAL COMPONENTS. REAL POSSIBILITIES.</text>
+<rect x="592" y="204" width="309" height="164" rx="12" fill="white" stroke="#dce4d5"/><text x="611" y="228" font-size="8" fill="#718363" letter-spacing="1">YOUR NEXT GOOD IDEA</text><text x="611" y="257" font-size="14" fill="#2d3f25">A little more room to create.</text><text x="608" y="321" font-size="61" font-family="Georgia, serif" fill="#315a43">69</text><text x="690" y="316" font-size="11" fill="#6e7c61">components</text><rect x="842" y="283" width="37" height="37" rx="7" fill="#f5f7f0" stroke="#dfe5d8"/><text x="855" y="308" font-size="22" fill="#4f6a44">+</text><text x="612" y="347" font-size="9" fill="#8a947d">Complete examples. Ready to make yours.</text>
+<rect x="917" y="204" width="204" height="228" rx="12" fill="white" stroke="#dce4d5"/><text x="935" y="229" font-size="8" fill="#718363" letter-spacing=".7">ONE DESIGN LANGUAGE</text>
+<circle cx="1019" cy="332" r="65" fill="none" stroke="#d9e2d3" stroke-dasharray="3 4"/>
+<rect x="996" y="309" width="46" height="46" rx="13" fill="#315a43"/><text x="1007" y="338" font-size="14" fill="white" font-weight="600">own</text>
+<g fill="#f3f6ef" stroke="#dfe7d6"><rect x="1005" y="253" width="28" height="28" rx="8"/><rect x="1067" y="310" width="28" height="28" rx="8"/><rect x="1051" y="376" width="28" height="28" rx="8"/><rect x="973" y="377" width="28" height="28" rx="8"/><rect x="945" y="310" width="28" height="28" rx="8"/></g>
+<g fill="#668255" font-size="18" text-anchor="middle"><text x="1019" y="274">✦</text><text x="1081" y="331">↗</text><text x="1065" y="397">◇</text><text x="987" y="398">⌘</text><text x="959" y="330">◉</text></g>
+<rect x="592" y="384" width="309" height="157" rx="12" fill="white" stroke="#dce4d5"/><text x="612" y="409" font-size="8" fill="#718363" letter-spacing="1">A LITTLE MORE FEELING</text><circle cx="625" cy="441" r="13" fill="#edf3e7"/><path d="m625 432 2 6 6 3-6 2-2 6-2-6-6-2 6-3Z" fill="#668255"/><text x="651" y="440" font-size="13" fill="#314829" font-weight="600">Your idea is ready.</text><text x="651" y="459" font-size="9" fill="#7d8b70">Small details. Clear feedback.</text><rect x="611" y="485" width="270" height="36" rx="7" fill="#315a43"/><text x="633" y="508" font-size="11" fill="white">Take the source.</text><path d="M849 504h13m-5-5 5 5-5 5" stroke="white" stroke-width="1.3" fill="none"/>
+<rect x="917" y="448" width="204" height="93" rx="12" fill="#193e2c"/><text x="939" y="472" font-size="8" fill="#b0c69d" letter-spacing="1">BUILT TO BE YOURS</text><text x="938" y="510" font-size="29" font-family="Georgia, serif" fill="#f5f7eb">MIT / open</text>
+</g>
+</g>
+</svg>

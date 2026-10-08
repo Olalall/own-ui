@@ -1,0 +1,1347 @@
+{
+  "button": {
+    "sourceDigest": "e74b9c183ba9577c2140fe02ce16d667f47b9626345d60ed43704998ff60affb",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "field": {
+    "sourceDigest": "600cd9c2160d482cbe8bfa1daa74feda98e5c10edbc91b0fa55bd1a78b07bb2b",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "textarea": {
+    "sourceDigest": "ee4c929b5b409ce0ac62f1ccdcf615d017cc6258953bb58e768ac00dfbf2d4b6",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "select": {
+    "sourceDigest": "0d7ebbe2295a0d67dfc31f4153a365ad71ba26f7a0bf919d71e1c7140cfbf9d1",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "checkbox": {
+    "sourceDigest": "a8718b781e20322808c1529099ed5430bb550728c09622c65ec640c196f525af",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "status-badge": {
+    "sourceDigest": "468e5d74fc80061efa235905ad7c74034b497537f1f44bb2fbbbf1910be4f727",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "notice": {
+    "sourceDigest": "dab26430e83338f7904e4d6be6c0f9440c8f51cee9f3585d1579036b59404ca6",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "progress": {
+    "sourceDigest": "8bcbb3a3170e5883a7607375b38b164ef7315a6e40e0311a18422a2dfdc43723",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "skeleton": {
+    "sourceDigest": "180c41e35e0fd41b739b337b39e260fcd3b3ea12e7d9f3460ccf68be1b99a032",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "agent-status": {
+    "sourceDigest": "865f34216d1e95f0b4c1bfab4d08c87d7f2208bfbdb03f2143051b204b6747b7",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "tool-call": {
+    "sourceDigest": "fbbbaa86ed40a8d66950c5ae9b17616c9f01fd1255334437e03dbd789442795b",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "approval": {
+    "sourceDigest": "7707b68202d73d1d10221bcd2089951beae2c9bc752582582232871124bb4c1b",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "agent-message": {
+    "sourceDigest": "e106a7d67ef78123241b535abfc4b3f9c9722b580a6974d63724c107462ef12f",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "agent-timeline": {
+    "sourceDigest": "4da1b4c1639ae8689b39dfce6d7d82cf35651b7e80091c31724e175040a43c9a",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "agent-composer": {
+    "sourceDigest": "3740fb57ff551bb84821d346b65010ebb7b3438a4fe95a8d3fc772e1a022b2c0",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "workspace-header": {
+    "sourceDigest": "b2c3d257da249b0afe4d8efd05effc4bf096fa917293fc070bd3de774cfcbb2f",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "list-toolbar": {
+    "sourceDigest": "99dcd6e4a4ab2ee017324ef2212f71f2b21159dc94d9d661232e8f3407e13d4a",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "workspace-stat": {
+    "sourceDigest": "43764a82aa13ef77a4d147dbeed744d6bbada05982a2e54255b50c579e7eac7e",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "workspace-empty": {
+    "sourceDigest": "5a77b487d07026ce8c86af8a1115660443cce64ed09fa615756ac82e1b0e7319",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "workspace-pagination": {
+    "sourceDigest": "f7e167ddb89fcb622f678f1345835c083f76dcf0f4de3fa0d5191069c18cc988",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "dialog": {
+    "sourceDigest": "e9185900e175bee1bb8255a93e31a9c35b65bad108630fd69a3714926909fdab",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "alert-dialog": {
+    "sourceDigest": "4780b918131dabfbf9a2a1a274aeeae7604b460bb5cc5f32475d257cc9ad645e",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "dropdown-menu": {
+    "sourceDigest": "d672f7d69ce558b688fe2ac93ddc792cbb68d4a93f101e5f05ae5b6f4bafdac8",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "popover": {
+    "sourceDigest": "42c3c8c463f1dd954d4cd8ae9d0f2acd74608ca8d32d0d4df1892d5b4394ba1f",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "tooltip": {
+    "sourceDigest": "cd098230d44d31a47851c8477d0b0e94df1f1861515abbfc7f6a174d65dbc5bd",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "tabs": {
+    "sourceDigest": "190f0ce6361c69a4862d902ffab36f398df2af0997070e749577e7549f225acc",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "switch": {
+    "sourceDigest": "b277dd3e141b56355a4e6a938ff7e9c845bf90cc968f6a86a79f45fb2f2f521a",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "radio-group": {
+    "sourceDigest": "86cde95edb1cf1c09c2efe2a68da2dd518964889c3b40cf3f2df71efe4c7bf97",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "toast": {
+    "sourceDigest": "dc966796653e0f006da3de31d3475daad33f97624456a5b360543efc0953bf44",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "form-group": {
+    "sourceDigest": "ee5d9cf4d998aba87dd559e60e3d9bf16f2947c9b5bdb16466c39913d7cfcb6c",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "combobox": {
+    "sourceDigest": "8cc469c5d730ec0ef6a14078c5b5b7e5520cc28231701814ee3aa02023232d84",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "multi-select": {
+    "sourceDigest": "3c38baff5a98c306d5fc5522aa4e3a3dc77b4dd95c9bc1f977801d59ddd6a960",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "date-range-picker": {
+    "sourceDigest": "721a7d48e71c96a69375e1faee4572783432f54eb238d2b8b8f5ba6953bb7d20",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "file-upload": {
+    "sourceDigest": "a46fba7eba733563c21e54b547752a176224a4b36bd3c7f6793481907a89863c",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "filter-bar": {
+    "sourceDigest": "8a299b0ac7988e1789b0782d001e553b729bfdf5e082f266e53ab64fd9aa55a5",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "data-table": {
+    "sourceDigest": "fea4d3304de845f346aa52ef6faaf4856cb4f296c685bd54e39137930284efc3",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "batch-action-bar": {
+    "sourceDigest": "b6b427aabb3e4a3e6539e706a367f009ef74b0f20fd15e4b2fc7013bee47602e",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "settings-section": {
+    "sourceDigest": "fd3f1b9b6f3f8ae667b83177a07941874da7b7db1e8ac9b9ab70120790c9e148",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "sidebar-nav": {
+    "sourceDigest": "f6ffe57c029315c85ee980e65d7a72c74bcf64c69b065ed8d78f22e71e888ace",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "thinking-indicator": {
+    "sourceDigest": "d2a065207b9258cf3c44262fb4d8094b3dc6685517da65af8288e771753a5c2b",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "streaming-text": {
+    "sourceDigest": "e131ff7c3b6bf81cbebfb34222a7e5219789ffad95b6e7a576043c7eb61fb848",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "reasoning-panel": {
+    "sourceDigest": "f964498f771afb3a3c142f543ffb95c826e0ba2bb1ddd5bd8e1eb0947d035295",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "animated-number": {
+    "sourceDigest": "79de215d845e0c6e2197629a3b5a4ba88cac915e72a7a1936ecf60fc6cbedec7",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "shimmer-text": {
+    "sourceDigest": "512a3827dade47d6e97a55e97b20f22a87841d940c166a2a613b5c3237ba1ccc",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "border-beam": {
+    "sourceDigest": "1457e248f72448d496a9549e09a90b6f4f75c76b081e3ae6009bf7b31b7dbf65",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "spotlight-card": {
+    "sourceDigest": "57a827e311457578ab34ae5a00f59b18a1d04549c93cf4c55dc6fb1bae8db6d4",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "animated-list": {
+    "sourceDigest": "f4aa894259737ff11db70a7a0f2410ed9005d0baf795e35ccb6a68c3bd6b88ea",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "shine-button": {
+    "sourceDigest": "bfd4beddb1ad09c8c06fea2c673ab5694aeeab59fc1f40bfd435cc2a574c2a87",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "ripple-button": {
+    "sourceDigest": "816ffeeb228ce2b3ce51e1f9ceefea6df10c217327e39fdaacf62ae0fa5034e6",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "gradient-text": {
+    "sourceDigest": "92c81a1887ed2b1839f150a0b909e5232f26dca02aeddd59c8bfbf3ac9853bd8",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "rotating-text": {
+    "sourceDigest": "980bda5e006da1d55bbcc4308d1784ed425ce5cd991d1ce0ffa368dae1df6b29",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "blur-reveal": {
+    "sourceDigest": "1d2aa6ecf6efa9abe96dd4070736d2b84287eec4f5ca1dfd6e1d1d36b80f7c90",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "tilt-card": {
+    "sourceDigest": "1357e341877ad435ed460d6216000625aa1f683dae15886961355701747d1dd5",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "marquee": {
+    "sourceDigest": "909c907f9d0096e957e0837540bbeb5f8eb59caf519df1d9a897dfaa985fc84f",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "compare-slider": {
+    "sourceDigest": "f97a7e4cd282a207859d49923471d21b3c4d9acb5e536f4cc5bccf7ee77a4af6",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "dock": {
+    "sourceDigest": "cc01feea85524ebaf438b3692322f2482e3aa236e27b9b1b23f5c27e47c979ce",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "meteor-card": {
+    "sourceDigest": "dcdc8371522cb6201ef3bd26b92e073f8cc3412271eafc56fbc1792f9628c4e6",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "本批未逐项重跑此组件的浏览器行为；此前 0.2.0 已做过浏览器行为检查"
+    ],
+    "previousBrowserValidation": {
+      "version": "0.2.0",
+      "date": "2026-10-08"
+    },
+    "visualAcceptance": "待用户审查"
+  },
+  "accordion": {
+    "sourceDigest": "8e28aef57c6aeddc3aaf17d677feb6dbe13838e3db96543cf3ea7857ba93e320",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：Enter 展开、空格收起、单项展开、禁用；减少动态时过渡近乎瞬时",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "breadcrumb": {
+    "sourceDigest": "a666a66c6b20d77e5327b0d144491f3abd4e4afad02ffd9db3898c83526fdd5b",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：增加路径、最后一项 aria-current、本页链接跳转",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "avatar-group": {
+    "sourceDigest": "34281bb8bf87cc2372b3a9c814dbbede286c69a8223874522cfd5ccacb23722d",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：4/6 位成员切换与可访问名称；边界检查覆盖 Unicode 首字与空名称；图片失败回退未实际加载检查",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "carousel": {
+    "sourceDigest": "0a8de10576c9cf91c9c6411da0967f6c5fa8d7657b31ea78a3cee1828c452f32",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：手动翻页、末页禁用、本地收藏、空轮播、隐藏页 inert；减少动态时过渡近乎瞬时",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "circular-progress": {
+    "sourceDigest": "2ad5e76b88b78c817596f141d729b7ddabda0a466ba7b977f7374fdc6143684c",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：增加/归零/未知/上限，未知进度没有 aria-valuenow；减少动态时停止旋转",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "command-menu": {
+    "sourceDigest": "f3b6c3e5c5dffdd9dd7232592ef7a051471c437eabc44b0c4f9a90daac6a9f98",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：初始搜索焦点、搜索/空结果/全部禁用、方向键循环跳过禁用项、Enter 执行、Esc 与焦点恢复、关闭重置、详情内嵌套弹层；真实 IME 组合输入未检查",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查",
+      "CUA：/own-ui/ 子目录详情、安装地址与实际下载；下载包全部 10 个源文件和 MIT 许可一致"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "step-navigation": {
+    "sourceDigest": "2d8f720ec1e9f85c115dc86be02344bbb755ac46a6af48cb276ea1c8cb24a2b7",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：前进/后退、aria-current、最后可用步骤与禁用步骤",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "terminal": {
+    "sourceDigest": "98ad60585c4f2ae1b9f1a5e929427ffab15c4a436c0e3c4ce474562df6fd7c04",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：追加/清空/恢复、空日志禁用复制、剪贴板文本一致；减少动态生效",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "file-tree": {
+    "sourceDigest": "f93d1029cf88338793505a94fe3923b2c9c4e3b4c6133b5703fef50ce054351c",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：原生文件夹 Enter 展开/收起、嵌套选择、收起保留状态、清除/空树",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "split-pane": {
+    "sourceDigest": "4a78673c2f84be2544504bf84fde62cdfe90416c40039a58e943d2ae776079a2",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：Home/End/方向键调整 25%—75%、锁定/解锁/均分",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "orbit-display": {
+    "sourceDigest": "b2590e9f86abbaaac23d280f0614b69274a83135dab28c68886660b845f79534",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：暂停、超过 8 项静态回退、恢复；减少动态时无动画",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  },
+  "text-highlight": {
+    "sourceDigest": "99c0c9a63cb3b576e9997a95d0696cd0386e49f0a9b76045476f883e0dc731bc",
+    "date": "2026-10-08",
+    "version": "0.3.0",
+    "environments": [
+      "React 19.3 / Vite 8.3.1：69 项完整复制与官方 CLI 安装、生产构建；干净公开源码目录从空依赖安装后再次通过",
+      "React 19.3 / Next.js 16.4.0：69 项生产构建及 SSR；命令菜单、折叠面板、分栏、未知进度和主题代表交互通过，无新控制台或 hydration 错误"
+    ],
+    "checks": [
+      "scripts/check-delivery.mjs：69 项源码/JSON/归档/registry/CLI 一致；三种独立目标的直接依赖",
+      "scripts/check-boundaries.mjs：旧导出兼容、全目录一致性与适用的数值/日期/文件/表格/文本/SSR 边界",
+      "scripts/check-release.mjs：显式允许公开的文件、MIT 许可完整、发布文档计数一致",
+      "CUA：隐藏/显示/重播与标记语义；减少动态时无动画",
+      "CUA：本批 12 项在 390px 无横向溢出；深色主题白色预览画布；减少动态检查"
+    ],
+    "visualAcceptance": "待用户审查"
+  }
+}

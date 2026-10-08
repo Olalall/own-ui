@@ -1,0 +1,73 @@
+@import "./own-ui-theme.css";
+
+.thinking { display: flex; align-items: center; gap: 18px; color: var(--own-ui-fg); }
+.orb { position: relative; display: grid; width: 56px; height: 56px; flex: none; place-items: center; border-radius: 50%; background: color-mix(in srgb, var(--own-ui-primary) 7%, var(--own-ui-bg)); color: var(--own-ui-primary); }
+.orb::before { position: absolute; inset: 4px; border: 1px solid color-mix(in srgb, var(--own-ui-primary) 24%, transparent); border-top-color: var(--own-ui-primary); border-radius: 50%; content: ""; animation: orbit 2.4s linear infinite; }
+.orb::after { position: absolute; inset: 12px; border: 1px dashed color-mix(in srgb, var(--own-ui-primary) 30%, transparent); border-radius: 50%; content: ""; animation: orbit 5s linear infinite reverse; }
+.orb svg { width: 20px; height: 20px; animation: breathe 2s ease-in-out infinite; }
+.thinking[data-active="false"] .orb::before, .thinking[data-active="false"] .orb::after, .thinking[data-active="false"] svg { animation: none; }
+.thinkingCopy { display: grid; gap: 6px; }
+.thinkingCopy strong { font-size: 16px; font-weight: 600; }
+.thinkingCopy p { margin: 0; font-size: 13px; color: var(--own-ui-muted-fg); }
+.shimmer { display: inline-block; background: linear-gradient(110deg, var(--own-ui-muted-fg) 30%, var(--own-ui-primary) 44%, var(--own-ui-fg) 50%, var(--own-ui-primary) 56%, var(--own-ui-muted-fg) 70%); background-size: 250% 100%; background-clip: text; color: transparent; animation: shine 3s linear infinite; }
+.shimmer[data-active="false"] { animation: none; background: none; color: var(--own-ui-fg); }
+.stream { color: var(--own-ui-fg); font-size: 16px; line-height: 1.9; overflow-wrap: anywhere; }
+.streamCharacter { display: inline-block; white-space: pre-wrap; animation: resolve 180ms ease-out both; }
+.cursor { display: inline-block; width: 3px; height: 1em; margin-left: 4px; background: var(--own-ui-primary); vertical-align: -.12em; animation: blink 1s steps(2, jump-none) infinite; }
+.srOnly { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.trace { border: 1px solid var(--own-ui-border); border-radius: var(--own-ui-card-radius); background: var(--own-ui-bg); color: var(--own-ui-fg); }
+.traceTrigger { display: flex; width: 100%; min-height: 56px; align-items: center; gap: 12px; border: 0; border-radius: inherit; padding: 14px 18px; background: transparent; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+.traceTrigger > strong { flex: 1; font-size: 14px; }
+.traceTrigger > span { color: var(--own-ui-muted-fg); font-size: 12px; }
+.chevron { width: 16px; height: 16px; transition: transform 250ms ease; }
+.traceTrigger[aria-expanded="true"] .chevron { transform: rotate(180deg); }
+.traceReveal { display: grid; grid-template-rows: 0fr; opacity: 0; transition: grid-template-rows 300ms cubic-bezier(.22,1,.36,1), opacity 200ms ease; }
+.traceReveal[data-open="true"] { grid-template-rows: 1fr; opacity: 1; }
+.traceBody { min-height: 0; overflow: hidden; }
+.traceList { display: grid; gap: 18px; margin: 0; padding: 4px 18px 20px; list-style: none; }
+.traceStep { position: relative; display: grid; grid-template-columns: 22px 1fr; align-items: start; gap: 10px; animation: rise 300ms ease-out both; }
+.traceStep:not(:last-child)::after { position: absolute; top: 24px; bottom: -14px; left: 10px; width: 1px; background: var(--own-ui-border); content: ""; }
+.stepIcon { display: grid; width: 22px; height: 22px; place-items: center; border-radius: 50%; background: var(--own-ui-muted); color: var(--own-ui-muted-fg); font-size: 12px; }
+.traceStep[data-state="completed"] .stepIcon { background: color-mix(in srgb, var(--own-ui-success) 10%, var(--own-ui-bg)); color: var(--own-ui-success); }
+.traceStep[data-state="failed"] .stepIcon { background: color-mix(in srgb, var(--own-ui-danger) 10%, var(--own-ui-bg)); color: var(--own-ui-danger); }
+.traceStep[data-state="running"] .stepIcon::before { width: 10px; height: 10px; border: 1.5px solid var(--own-ui-border); border-top-color: var(--own-ui-primary); border-radius: 50%; content: ""; animation: orbit 800ms linear infinite; }
+.traceStep strong { display: block; font-size: 13px; font-weight: 550; }
+.traceStep p { margin: 5px 0 0; color: var(--own-ui-muted-fg); font-size: 12px; line-height: 1.7; }
+.number { display: inline-block; color: var(--own-ui-fg); font-size: clamp(40px, 6vw, 64px); font-weight: 650; font-variant-numeric: tabular-nums; letter-spacing: -.06em; line-height: 1.1; }
+.beamCard { position: relative; overflow: hidden; border-radius: var(--own-ui-card-radius); padding: 2px; isolation: isolate; background: var(--own-ui-border); color: var(--own-ui-fg); }
+.beamCard::before { position: absolute; inset: -100%; z-index: -1; background: conic-gradient(from 0deg, transparent 0deg 220deg, var(--own-ui-primary) 270deg, var(--own-ui-warning) 310deg, transparent 360deg); content: ""; animation: orbit 6s linear infinite; }
+.beamCard[data-active="false"]::before { animation-play-state: paused; }
+.beamContent { position: relative; border-radius: max(0px, calc(var(--own-ui-card-radius) - 2px)); padding: 24px; background: var(--own-ui-bg); }
+.spotlight { position: relative; overflow: hidden; border: 1px solid var(--own-ui-border); border-radius: var(--own-ui-card-radius); padding: 28px; background: var(--own-ui-bg); color: var(--own-ui-fg); }
+.spotlight::before { position: absolute; inset: 0; pointer-events: none; opacity: 0; background: radial-gradient(260px circle at var(--spot-x, 50%) var(--spot-y, 50%), color-mix(in srgb, var(--own-ui-primary) 16%, transparent), transparent 75%); content: ""; transition: opacity 200ms ease; }
+.spotlight:hover::before, .spotlight:focus-within::before { opacity: 1; }
+.spotlight > * { position: relative; }
+.list { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; color: var(--own-ui-fg); }
+.listItem { border: 1px solid var(--own-ui-border); border-radius: var(--own-ui-radius); padding: 14px 16px; background: var(--own-ui-bg); box-shadow: 0 3px 12px #00000004; animation: rise 350ms cubic-bezier(.22,1,.36,1) both; }
+.demo { display: grid; gap: 24px; min-width: 0; }
+.demoStage { display: grid; min-height: 160px; align-content: center; gap: 20px; }
+.demoKicker { margin: 0; color: var(--own-ui-muted-fg); font-size: 11px; font-weight: 550; letter-spacing: .12em; text-transform: uppercase; }
+.demoTitle { margin: 0; font-size: 23px; font-weight: 600; letter-spacing: -.04em; line-height: 1.4; }
+.demoDescription { margin: 0; color: var(--own-ui-muted-fg); font-size: 13px; line-height: 1.8; }
+.demoActions { display: flex; flex-wrap: wrap; gap: 8px; }
+.demoStatus { min-height: 20px; margin: 0; color: var(--own-ui-muted-fg); font-size: 12px; }
+.metric { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; }
+.metricDelta { border-radius: 99px; padding: 4px 8px; background: color-mix(in srgb, var(--own-ui-success) 8%, var(--own-ui-bg)); color: var(--own-ui-success); font-size: 12px; }
+.demoGraph { display: block; width: 100%; height: 70px; margin-block: 24px 10px; color: var(--own-ui-primary); }
+.demoRow { display: flex; align-items: center; gap: 12px; }
+.demoRow > div { display: grid; flex: 1; gap: 4px; }
+.demoRow strong { font-size: 13px; font-weight: 550; }
+.demoRow small { color: var(--own-ui-muted-fg); font-size: 12px; }
+.demoGlyph { display: grid; width: 34px; height: 34px; flex: none; place-items: center; border-radius: 10px; background: var(--own-ui-muted); color: var(--own-ui-primary); font-size: 17px; }
+@keyframes orbit { to { transform: rotate(360deg); } }
+@keyframes breathe { 50% { transform: scale(.85); opacity: .55; } }
+@keyframes shine { from { background-position: 200% 0; } to { background-position: -50% 0; } }
+@keyframes resolve { from { opacity: .2; filter: blur(3px); transform: translateY(3px); } to { opacity: 1; filter: blur(0); transform: translateY(0); } }
+@keyframes blink { 50% { opacity: 0; } }
+@keyframes rise { from { opacity: 0; transform: translateY(12px) scale(.98); } to { opacity: 1; transform: translateY(0) scale(1); } }
+@media (prefers-reduced-motion: reduce) {
+  .orb::before, .orb::after, .orb svg, .shimmer, .streamCharacter, .cursor, .traceStep, .stepIcon::before, .beamCard::before, .listItem { animation: none; }
+  .traceReveal, .chevron, .spotlight::before { transition: none; }
+  .shimmer { background: none; color: var(--own-ui-fg); }
+  .spotlight::before { display: none; }
+}

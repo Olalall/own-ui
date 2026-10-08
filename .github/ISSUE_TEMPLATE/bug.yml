@@ -1,0 +1,21 @@
+name: 组件问题
+description: 报告可复现的组件、安装或展示问题
+body:
+  - type: input
+    id: component
+    attributes:
+      label: 组件与版本
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤与预期结果
+      description: 包含最小代码或截图，请移除私有数据。
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境
+      description: 框架、浏览器、系统、安装方式与相关依赖版本。

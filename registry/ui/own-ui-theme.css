@@ -1,0 +1,30 @@
+:where(:root) {
+  --own-ui-bg: var(--background, #ffffff);
+  --own-ui-fg: var(--foreground, #18181b);
+  --own-ui-primary: var(--primary, #2f343b);
+  --own-ui-primary-fg: var(--primary-foreground, #ffffff);
+  --own-ui-muted: var(--muted, #f4f4f5);
+  --own-ui-muted-fg: var(--muted-foreground, #71717a);
+  --own-ui-border: var(--border, #e4e4e7);
+  --own-ui-ring: var(--ring, #59636f);
+  --own-ui-danger: var(--destructive, #b42318);
+  --own-ui-success: var(--success, #16794a);
+  --own-ui-warning: var(--warning, #9a5b00);
+  --own-ui-info: var(--info, #536276);
+  --own-ui-radius: 8px;
+  --own-ui-card-radius: 12px;
+  --own-ui-control-height: 40px;
+  --own-ui-space-1: 4px;
+  --own-ui-space-2: 8px;
+  --own-ui-space-3: 12px;
+  --own-ui-space-4: 16px;
+  --own-ui-space-6: 24px;
+  --own-ui-font-size-xs: 12px;
+  --own-ui-font-size-sm: 14px;
+  --own-ui-font-size-lg: 18px;
+}
+
+
+@media (max-width: 640px) {
+  :where(:root) { --own-ui-control-height: 44px; }
+}

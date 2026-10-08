@@ -11,6 +11,7 @@ verification/vite-migration/
 verification/hosts/legacy/
 verification/hosts/Migration.tsx
 verification/hosts/migration.css
+verification/files/ui-upload-invalid.png
 scripts/check-browser.mjs
 public/delivery/
 public/downloads/
